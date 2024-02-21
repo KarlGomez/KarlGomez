@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarlGomez
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 
